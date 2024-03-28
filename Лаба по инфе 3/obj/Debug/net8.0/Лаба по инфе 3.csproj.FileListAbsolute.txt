@@ -1,0 +1,14 @@
+D:\Лаба по инфе 3\Лаба по инфе 3\bin\Debug\net8.0\Лаба по инфе 3.exe
+D:\Лаба по инфе 3\Лаба по инфе 3\bin\Debug\net8.0\Лаба по инфе 3.deps.json
+D:\Лаба по инфе 3\Лаба по инфе 3\bin\Debug\net8.0\Лаба по инфе 3.runtimeconfig.json
+D:\Лаба по инфе 3\Лаба по инфе 3\bin\Debug\net8.0\Лаба по инфе 3.dll
+D:\Лаба по инфе 3\Лаба по инфе 3\bin\Debug\net8.0\Лаба по инфе 3.pdb
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.AssemblyInfoInputs.cache
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.AssemblyInfo.cs
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.csproj.CoreCompileInputs.cache
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.dll
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\refint\Лаба по инфе 3.dll
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.pdb
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\Лаба по инфе 3.genruntimeconfig.cache
+D:\Лаба по инфе 3\Лаба по инфе 3\obj\Debug\net8.0\ref\Лаба по инфе 3.dll
